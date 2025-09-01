@@ -4,7 +4,7 @@
 
 Me chamo Sarah Araujo, tenho 22 anos e moro em Betim, MG. Atualmente curso o 3º período de Sistemas de Informação na PUC Minas (turno noturno) e atuo como estagiária na Prefeitura de Betim, na área de redes e comunicação de dados.
 
-Tenho direcionado meus estudos para a área de desenvolvimento, com ênfase em front-end e web, buscando consolidar conhecimentos técnicos e ampliar minhas habilidades práticas por meio de projetos pessoais. Estou em busca de novas oportunidades na área de tecnologia, onde eu possa aplicar meus aprendizados, evoluir profissionalmente e contribuir de forma efetiva em projetos de desenvolvimento.
+Tenho direcionado meus estudos para a área desenvolvimento web, com foco em front-end, buscando consolidar conhecimentos técnicos e ampliar minhas habilidades práticas por meio de projetos pessoais. Estou em busca de novas oportunidades na área de tecnologia, onde eu possa aplicar meus aprendizados, evoluir profissionalmente e contribuir de forma efetiva em projetos de desenvolvimento.
 
 
 
